@@ -1,0 +1,16 @@
+{
+  "name": "cuevascom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hompage": "https://itatcuevas.github.io/cuevascom",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}

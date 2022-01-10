@@ -1,0 +1,65 @@
+/* TinyMCE specific rules */
+body.mceContentBody {
+	background: #333;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#fff;
+}
+
+h1
+{
+    font-family: Century Gothic, sans-serif;
+    color:#ffffff;
+    text-align:left;
+    font-size:42px;
+    font-weight:normal;
+    margin:0px 0px 0px 0px;
+    }
+    
+h2
+{
+    font-family:Century Gothic, Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    text-align:left;
+    font-size:22px;
+    font-weight:normal;
+    margin:15px 15px 0px 15px;
+    }
+h3
+{
+    font-family:Century Gothic, sans-serif;
+    color:#ffffff;
+    text-align:left;
+    font-size:32px;
+    font-weight:normal;
+    margin:0px 0px 0px 0px;
+    }
+p
+{
+    font-family: Century Gothic, Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    text-align:left;
+    font-size:16px;
+margin:15px 15px 0px 15px;
+    line-height:24px;
+    }
+
+a.link_class:link,a.link_class:active,a.link_class:hover,a.link_class:visited{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13pt;
+	color:#FFFFFF;
+	text-decoration:underline;
+}a.link_class:hover{
+	text-decoration:none;
+}
+
+ul 
+{
+    color:#ffffff;
+}
+li 
+{
+    color:#FFFFFF;
+    
+}
+
